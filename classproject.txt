@@ -1,0 +1,4 @@
+Understand the difference
+- HEAD -> master means your local branch is pointing to the latest local commit.
+- origin/master means the remote-tracking reference is pointing to the latest known commit on GitHub.
+You want both to point to the first commit.
