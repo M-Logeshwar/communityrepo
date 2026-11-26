@@ -1,4 +1,4 @@
-# Git Practice
+ # Git Practice
 
 ## About This Repository
 This repository is created to practise and learn Git and GitHub.
@@ -24,4 +24,5 @@ This repository is created to practise and learn Git and GitHub.
 My goal is to understand Git and GitHub practically as part of my DevOps learning journey.
 
 ## Author
-Logesh
+Logesh 
+i am learning devops 
